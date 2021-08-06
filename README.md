@@ -38,6 +38,7 @@
   <code><img title="GitHub" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"></code>
   <code><img title="SSMS" height="25" src="https://aleson-itc.com/wp-content/uploads/2020/03/server-m-studio.svg"></code>
   <code><img title="MySQL" height="25" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"></code>
+  <code><img title="Jupyter Notebook" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
   <code><img title="Visual Studio Code" height="25" src="https://images.squarespace-cdn.com/content/v1/592e86ee9de4bb6e73d8c154/1514032294927-RQFIXIR332YVK2D58E64/32078472-5053adea-baa7-11e7-9034-519002f12ac7.png"></code>
 </h5>
 
