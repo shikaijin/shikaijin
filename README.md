@@ -3,6 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shikai+Jin....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+ 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shikaijin/shikaijin.visitor-badge)
+
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/shikai-jin-492a0b136/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
