@@ -18,7 +18,7 @@
   <br>
   🔬 I'm currently studying for a Master of Management in Business Data Analytics at University of Windsor 
   <br>
-  🎓 I graduated from Queen's University Mathematics & Statistics Department
+  🎓 I graduated from Queen's University with a Bachelor of Science (Honours) in Mathematics
   <br>
   💻 I love writing code and learn anythings about it
   <br>
