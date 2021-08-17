@@ -40,6 +40,7 @@
   <code><img title="MySQL" height="25" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"></code>
   <code><img title="Jupyter Notebook" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
   <code><img title="Visual Studio Code" height="25" src="https://images.squarespace-cdn.com/content/v1/592e86ee9de4bb6e73d8c154/1514032294927-RQFIXIR332YVK2D58E64/32078472-5053adea-baa7-11e7-9034-519002f12ac7.png"></code>
+  <code><img title="Figma" height="25" src="https://4.bp.blogspot.com/-LiJZ5I8E7K8/XIe_GeI5glI/AAAAAAAAIuw/4Awu8j8r0P8TKBXzyxyslHEfplOlK9-6QCK4BGAYYCw/s1600/icon%2Bfigma%2Bvector.png"></code>
 </h5>
 
 <h2 align="center"> Stats </h2>
