@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shikai+Jin....;Nice+to+meet+you!&center=true&size=30">
   </a>
@@ -6,13 +6,13 @@
  
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shikaijin/shikaijin.visitor-badge)
 
-<h5 align="center">
+<h5 align="left">
   <code>
     <a href="https://www.linkedin.com/in/shikai-jin-492a0b136/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
 
-<p align="center">
+<p align="left">
   Hi, I'm Shikai (Zoe) Jin
   <br>
   <br>
@@ -30,8 +30,8 @@
 </p>
 
 <hr>
-<h2 align="center"> Languages & Frameworks & Tools & Abilities </h2>
-<h5 align="center">
+<h2 align="left"> Languages & Frameworks & Tools & Abilities </h2>
+<h5 align="left">
   <code><img title="R" height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2rLkJzbPUxXq3BaPimgkX8xVrR2nDF0GQHoHEQvKN9YCyYSELJlHqD9Hs2A3JdNwmfv0&usqp=CAU"></code>
   <code><img title="Python" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>
   <code><img title="Git" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
@@ -43,19 +43,19 @@
   <code><img title="Figma" height="25" src="https://4.bp.blogspot.com/-LiJZ5I8E7K8/XIe_GeI5glI/AAAAAAAAIuw/4Awu8j8r0P8TKBXzyxyslHEfplOlK9-6QCK4BGAYYCw/s1600/icon%2Bfigma%2Bvector.png"></code>
 </h5>
 
-<h2 align="center"> Stats </h2>
+<h2 align="left"> Stats </h2>
 <br>
-<p align=center>
-  <div align=center>
+<p align=left>
+  <div align=left>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=shikaijin&theme=react&border=61dafb&hide_border=true" alt="shikaijin" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=shikaijin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=shikaijin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
     </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
+  <div align=left>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikaijin&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
