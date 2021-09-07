@@ -22,7 +22,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📫 I'm currently pursuing for <a href="https://www.iiba.org/business-analysis-certifications/ecba/">ECBA™</a>
+  🖋 I'm currently learning BABOK (Business Analysis Body of Knowledge) and pursuing for <a href="https://www.iiba.org/business-analysis-certifications/ecba/">ECBA™</a>
   <br>
   📫 How to reach me: <a href="mailto: shikaijin7@gmail.com">shikaijin7@gmail.com</a>
   <br>
