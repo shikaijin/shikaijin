@@ -20,7 +20,7 @@
   <br>
   🎓 I graduated from Queen's University with a Bachelor of Science (Honours) in Mathematics
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learn anything about it
   <br>
   🖋 I'm currently learning BABOK (Business Analysis Body of Knowledge) and pursuing for <a href="https://www.iiba.org/business-analysis-certifications/ecba/">ECBA™</a>
   <br>
