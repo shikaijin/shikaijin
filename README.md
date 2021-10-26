@@ -49,24 +49,20 @@
 
 <h2 align="left"> Stats </h2>
 <br>
-<p align=left>
+<p>
   <div align=left>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com?user=shikaijin&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="shikaijin" />
-    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=shikaijin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-    <br><br><br><br><br><br><br><br><br>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
+  </div>
+  <div align=left>
+         <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikaijin&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
-    </div>
-  
-  <div align=left>
-
   </div>
-</p>
+ </p>
+
+
 
 
 
