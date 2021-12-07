@@ -16,19 +16,19 @@
   Hi, I'm Shikai (Zoe) Jin
   <br>
   <br>
-  🔬 I'm currently studying for a Master of Management in Data Analytics at University of Windsor 
+  🔬 I'm currently studying for a Master of Management in Data Analytics at <a href="https://www.uwindsor.ca/business/">University of Windsor</a>. 
   <br>
-  🎓 I graduated from Queen's University with a Bachelor of Science (Honours) in Mathematics
+  🎓 I graduated from <a href="https://www.queensu.ca/mathstat/">Queen's University</a> with a <a href="https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/mathematics-statistics/mathematics-major-science-bs-honours/">Bachelor of Science (Honours) in Mathematics</a>.
   <br>
-  💻 I love writing code and learn anything about it
+  💻 I love writing code and learn anything about it.
   <br>
-  🖋 I'm currently learning BABOK (Business Analysis Body of Knowledge) and pursuing for <a href="https://www.iiba.org/business-analysis-certifications/ecba/">ECBA™</a>
+  🖋 I'm currently learning BABOK (Business Analysis Body of Knowledge) and pursuing for <a href="https://www.iiba.org/business-analysis-certifications/ecba/">ECBA™</a>.
   <br>
   📫 How to reach me: <a href="mailto: shikaijin7@gmail.com">shikaijin7@gmail.com</a>
   <br>
-  😄 Pronouns: She / Her
+  😄 Pronouns: She/Her
   <br>
-  ⚡ Fun fact: I love anime and Gunpla
+  ⚡ Fun fact: I love anime and Gunpla.
 </p>
 
 <hr>
@@ -37,6 +37,8 @@
   <code><img title="R" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"></code>
   <code><img title="Python" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>
   <code><img title="HTML" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></code>
+  <code><img title="CSS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
+  <code><img title="React" height="25" src="https://www.pngfind.com/pngs/m/638-6386507_10-years-of-experience-react-native-logo-svg.png"></code>
   <code><img title="Git" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
   <code><img title="GitHub" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"></code>
   <code><img title="SSMS" height="25" src="https://aleson-itc.com/wp-content/uploads/2020/03/server-m-studio.svg"></code>
