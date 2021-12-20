@@ -8,7 +8,7 @@
 
 <h5 align="left">
   <code>
-    <a href="www.linkedin.com/in/shikaizoejin" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+    <a href="www.linkedin.com/in/shikaizoejin/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
 
