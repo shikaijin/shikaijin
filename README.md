@@ -7,10 +7,13 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shikaijin/shikaijin.visitor-badge)
 
 <h5 align="left">
-  <code>
-    <a href="www.linkedin.com/in/shikaizoejin/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <a href="https://www.linkedin.com/in/shikaizoejin/">
+  <img align="left" alt="Shikai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 </h5>
 <br>
+<br>
+
 
 <p align="left">
   Hi, I'm Shikai (Zoe) Jin
