@@ -29,9 +29,9 @@
   <br>
   📫 How to reach me: <a href="mailto: shikaijin7@gmail.com">shikaijin7@gmail.com</a>
   <br>
-  😄 Pronouns: She/Her
+   ⚡ <a href="https://verify.skilljar.com/c/fcp5g283qdvp">Dataiku Certified Core Designer</a>
   <br>
-  ⚡ Fun fact: I love anime and Gunpla.
+   😄 Pronouns: She/Her
 </p>
 
 <hr>
