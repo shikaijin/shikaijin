@@ -25,8 +25,6 @@
   <br>
   💻 I love writing code and learn anything about it.
   <br>
-  🖋 I'm currently learning BABOK (Business Analysis Body of Knowledge) and pursuing for <a href="https://www.iiba.org/business-analysis-certifications/ecba/">ECBA™</a>.
-  <br>
   📫 How to reach me: <a href="mailto: shikaijin7@gmail.com">shikaijin7@gmail.com</a>
   <br>
    ⚡ <a href="https://verify.skilljar.com/c/fcp5g283qdvp">Dataiku Certified Core Designer</a>
