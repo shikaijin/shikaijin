@@ -19,9 +19,9 @@
   Hi, I'm Shikai (Zoe) Jin
   <br>
   <br>
-  🔬 I'm currently studying for a Master of Management in Data Analytics at <a href="https://www.uwindsor.ca/business/">University of Windsor</a>. 
+  🔬 I recently graduated from University of Windsor with a Master of Management in Data Analytics. 
   <br>
-  🎓 I graduated from <a href="https://www.queensu.ca/mathstat/">Queen's University</a> with a <a href="https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/mathematics-statistics/mathematics-major-science-bs-honours/">Bachelor of Science (Honours) in Mathematics</a>.
+  🎓 I graduated from Queen's University with a Bachelor of Science (Honours) in Mathematics.
   <br>
   💻 I love writing code and learn anything about it.
   <br>
