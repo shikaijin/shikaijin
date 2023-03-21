@@ -27,10 +27,11 @@
   <br>
   📫 How to reach me: <a href="mailto: shikaijin7@gmail.com">shikaijin7@gmail.com</a>
   <br>
-   ⚡ <a href="https://verify.skilljar.com/c/fcp5g283qdvp">Dataiku Certified Core Designer</a>
-  <br>
    😄 Pronouns: She/Her
 </p>
+
+
+[![Data Science Professional Certificate](https://images.credly.com/size/110x110/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/badges/a40634e7-50df-4fd7-a30f-d54784f558f7/public_url)
 
 <hr>
 <h2 align="left"> Languages & Frameworks & Tools & Abilities </h2>
