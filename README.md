@@ -50,23 +50,3 @@
   <code><img title="Visual Studio Code" height="25" src="https://images.squarespace-cdn.com/content/v1/592e86ee9de4bb6e73d8c154/1514032294927-RQFIXIR332YVK2D58E64/32078472-5053adea-baa7-11e7-9034-519002f12ac7.png"></code>
   <code><img title="Figma" height="25" src="https://4.bp.blogspot.com/-LiJZ5I8E7K8/XIe_GeI5glI/AAAAAAAAIuw/4Awu8j8r0P8TKBXzyxyslHEfplOlK9-6QCK4BGAYYCw/s1600/icon%2Bfigma%2Bvector.png"></code>
 </h5>
-
-<h2 align="left"> Stats </h2>
-<br>
-<p>
-  <div align=left>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=shikaijin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-<!--   <div align=left>
-         <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikaijin&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div> -->
- </p>
-
-
-
-
-
